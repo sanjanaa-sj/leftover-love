@@ -70,6 +70,6 @@ You may also see any lint errors in the console.
 ## 📸 Screenshot
 
 ![App Screenshot](./screenshot.png)
-![App Screenshot](./screenshot(2).png)
-![App Screenshot](./screenshot(3).png)
-![App Screenshot](./screenshot(4).png)
+![App Screenshot](./screenshot2.png)
+![App Screenshot](./screenshot3.png)
+![App Screenshot](./screenshot4.png)
