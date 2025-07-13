@@ -50,3 +50,19 @@ Say goodbye to food waste — just type in your ingredients, and we’ll show re
 We waste a lot of good food without realizing how easy it is to make something from "nothing."
 This app makes leftovers cute, useful, and yummy again. 🌸
 
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+npm test
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
