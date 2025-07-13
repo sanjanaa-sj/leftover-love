@@ -24,7 +24,6 @@ Say goodbye to food waste — just type in your ingredients, and we’ll show re
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 
 ### Tooling & Configuration
