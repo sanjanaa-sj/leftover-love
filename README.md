@@ -21,6 +21,11 @@ Say goodbye to food waste — just type in your ingredients, and we’ll show re
 - 🧠 **JavaScript (ES6+)** – core functionality
 - 🌐 **HTML5 & JSX** – markup and structure
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+
 ### Tooling & Configuration
 - 📦 **npm** – package management
 - 🔧 **PostCSS** – CSS transformations
@@ -60,3 +65,11 @@ Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
+
+
+## 📸 Screenshot
+
+![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot(2).png)
+![App Screenshot](./screenshot(3).png)
+![App Screenshot](./screenshot(4).png)
